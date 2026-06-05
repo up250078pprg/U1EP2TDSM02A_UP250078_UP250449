@@ -41,12 +41,6 @@ Esta práctica tiene como propósito fortalecer el uso de Git y GitHub mediante 
 
 ---
 
-## Resultado
-
-La práctica concluyó con la integración exitosa de las funcionalidades desarrolladas por ambos integrantes, consolidando una única versión funcional del proyecto y aplicando un flujo de trabajo similar al utilizado en equipos de desarrollo de software.
-
----
-
 <div align="center">
 
 ⭐ Gracias por visitar este repositorio.
